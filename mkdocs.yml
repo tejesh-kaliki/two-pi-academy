@@ -42,7 +42,8 @@ nav:
           - maths/trigonometry/formulas/trigonometric-ratios.md
           - maths/trigonometry/formulas/trigonometric-functions-for-compound-angles.md
         - Tests:
-          - maths/trigonometry/tests/test-26-5-24.md
+          - maths/trigonometry/tests/test-1.md
+          - maths/trigonometry/tests/test-2.md
 
 
 extra:
