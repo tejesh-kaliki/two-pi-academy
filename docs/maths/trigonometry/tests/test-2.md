@@ -1,8 +1,6 @@
 ---
 title: Trigonometry Test 2
 description: Trigonometry test for topics in exercide 3.3 of CBSE class 11 maths.
-hide:
-    - footer
 ---
 
 # Trigonometry test 2
@@ -25,7 +23,7 @@ hide:
     2. $\sin{15^\circ}\cos{15^\circ}=\frac{1}{4}$ [**Hint:** $\sin{2x}$]
     3. $\sqrt{2}\sin{(\frac{\pi}{4}+x)}=\sin{x}+\cos{x}$
     4. $\frac{\tan{(n+1)x-\tan{nx}}}{1+\tan{(n+1)x}\tan{nx}}=\tan{x}$
-    5. $\cot{x}-\tan{x}=2\tan{2x}$
+    5. $\cot{x}-\tan{x}=2\cot{2x}$
     6. $\frac{\sin{7x}-\sin{3x}}{\sin{x}\cos{x}}=2\cos{5x}$
     7. $\frac{\sin{6x}-\sin{2x}}{\cos{5x}+\cos{3x}}=2\sin{x}$
-    8. $2\cos{(\frac{3\pi}{4}+x)}\cos{(\frac{\pi}{4}-x)}=\cos{2x}$
+    8. $2\sin{(\frac{3\pi}{4}+x)}\cos{(\frac{\pi}{4}-x)}=\cos{2x}$

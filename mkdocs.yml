@@ -44,6 +44,7 @@ nav:
         - Tests:
           - maths/trigonometry/tests/test-1.md
           - maths/trigonometry/tests/test-2.md
+          - maths/trigonometry/tests/test-final.md
 
 
 extra:
