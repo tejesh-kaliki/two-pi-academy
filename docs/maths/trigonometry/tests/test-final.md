@@ -1,5 +1,5 @@
 ---
-title: Trigonometry Final Test
+title: Final Test
 description: Trigonometry Test covering all the topics in Trigonometry.
 ---
 

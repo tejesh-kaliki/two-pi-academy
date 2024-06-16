@@ -1,5 +1,5 @@
 ---
-title: Trigonometry Test 2
+title: Test 2
 description: Trigonometry test for topics in exercide 3.3 of CBSE class 11 maths.
 ---
 

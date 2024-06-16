@@ -14,7 +14,7 @@ description: Basic formulas needed for solving trogonometric equations.
 ???+ tip
     Just change $-x$ to $x$, and add the sign depending the sign on $IV$ quadrant.
 
-## Trigonometric ratios of compound angles
+## Compound angles
 
 1.  $\sin{(x+y)}=\sin{x}\cos{y}+\cos{x}\sin{y}$
 

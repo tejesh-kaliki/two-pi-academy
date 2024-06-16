@@ -45,6 +45,13 @@ nav:
           - maths/trigonometry/tests/test-1.md
           - maths/trigonometry/tests/test-2.md
           - maths/trigonometry/tests/test-final.md
+     - Complex Numbers:
+        - maths/complex-numbers/index.md
+        - Formulas:
+          - maths/complex-numbers/formulas/arithmetic-operations.md
+          - maths/complex-numbers/formulas/modulus-and-conjugate.md
+        - Tests:
+          - maths/complex-numbers/tests/test-final.md
 
 
 extra:
