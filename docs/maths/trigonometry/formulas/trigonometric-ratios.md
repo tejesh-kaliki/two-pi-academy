@@ -11,6 +11,10 @@ description: Basics of Trigonometric ratios along with related information.
 1. $\cos{\theta}=\frac{\text{Adjacent Side}}{\text{Hypotenuse}}$
 1. $\tan{\theta}=\frac{\text{Opposite Side}}{\text{Adjacent Side}}$
 
+??? youtube-video "Trigonometric Radios"
+    Check this short to understand: **[Trigonometric Ratios](https://youtube.com/shorts/QkDGyw6fdII?si=CRQYXRfdlMe57iDS)**
+
+
 ## Relation between trigonometric ratios
 
 1. $\tan{\theta}=\frac{\sin{\theta}}{\cos{\theta}}$
@@ -23,6 +27,10 @@ description: Basics of Trigonometric ratios along with related information.
 1. $\sin^2{\theta} + \cos^2{\theta} = 1$
 2. $\sec^2{\theta} - \tan^2{\theta} = 1$
 1. $\text{cosec}^2{\theta} - \cot^2{\theta} = 1$
+
+??? youtube-video "Trigonometric Identities"
+    Check this short to understand: **[Trigonometric Identities](https://youtube.com/shorts/pdOjqKeHlr4?si=OTAc0UWIb2FRFigf)**
+
 
 ## Trigonometric ratios for common angles
 
@@ -38,6 +46,10 @@ description: Basics of Trigonometric ratios along with related information.
 This table summarizes the values of sine, cosine, and tangent for common angles, expressed in degrees.
 
 
+??? youtube-video "Trigonometric Radios for Some Standard Angles"
+    Check this short to understand: **[Trigonometric Radios for Some Standard Angles](https://youtube.com/shorts/suxS4_qjSKk?si=CK0850gAhVQS9kJg)**
+
+
 ## Signs in different quadrants
 
 |                  | Quadrant I  | Quadrant II | Quadrant III | Quadrant IV |
@@ -45,6 +57,10 @@ This table summarizes the values of sine, cosine, and tangent for common angles,
 | $\sin{\theta}$   | $+$         | $+$         | $-$          | $-$         |
 | $\cos{\theta}$   | $+$         | $-$         | $-$          | $+$         |
 | $\tan{\theta}$   | $+$         | $-$         | $+$          | $-$         |
+
+
+??? youtube-video "Signs of Trigonometric Ratios"
+    Check this short to understand: **[Signs of Trigonometric Ratios](https://youtube.com/shorts/fUOAlRkMlYw?si=OGXVZs65Vm0AXAyu)**
 
 
 ## Domains and ranges
@@ -59,3 +75,6 @@ This table summarizes the values of sine, cosine, and tangent for common angles,
 | $\cot{\theta}$ | $R-\{n\pi: n\in Z\}$  | $R$ |
 
 These tables provide a summary of the values and properties of common trigonometric ratios for various angles, signs of ratios in different quadrants, and the domains and ranges of trigonometric functions.
+
+??? youtube-video "Domain & Range of Trigonometric Ratios"
+    Check this short to understand: **[Domain & Range of Trigonometric Ratios](https://youtube.com/shorts/63oYFD64hpo?si=nmwy5Ng5gL50lQ-F)**

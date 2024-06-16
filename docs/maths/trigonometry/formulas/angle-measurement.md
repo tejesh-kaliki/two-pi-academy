@@ -5,6 +5,9 @@ description: Measurement of angle in different units, and conversion between the
 
 # Angle measurement
 
+??? youtube-video "What's an Angle?"
+    Check this short to understand an Angle: **[what's an Angle?](https://youtube.com/shorts/QkDGyw6fdII?si=CRQYXRfdlMe57iDS)**
+
 ## Degrees
 
 Degrees are a unit of angle measurement commonly used in everyday situations.
@@ -24,6 +27,10 @@ $$
 
 One full revolution is $2\pi$ radians.
 
+??? youtube-video "Systems of Measurement of an Angle"
+    Check this short to understand: **[Systems of Measurement of an Angle](https://youtube.com/shorts/b0V_cZeERHc?si=9nj1qIkO_vPvZHKj)**
+
+
 ## Conversion formula
 
 The following formulas to convert between degrees and radians:
@@ -37,4 +44,7 @@ $$
 $$
 \text{Degrees} = \frac{\text{Radians} \times 180}{\pi}
 $$
+
+??? youtube-video "Conversion between Degrees & Radians"
+    Check this short to understand: **[Conversion between Degrees & Radians](https://youtube.com/shorts/RUu8F_ykx0E?si=Pa5dIt488aCOQRY5)**
 
