@@ -37,6 +37,9 @@ theme:
 nav:
   - Home: index.md
   - Class-11 Maths:
+     - Sets:
+        - Tests:
+          - maths/sets/tests/test.md
      - Trigonometry:
         - maths/trigonometry/index.md
         - Formulas:
