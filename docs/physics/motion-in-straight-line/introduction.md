@@ -41,7 +41,7 @@ The physical quantities can be either **_scalar quantities_** or **_vector quant
 
 ???+ info "Distance vs. Displacement"
 
-    ![Distance vs. Displacement](/assets/distance-vs-displacement.png){ width=200 }
+    ![Distance vs. Displacement](../../assets/distance-vs-displacement.png){ width=200 }
 
     | Distance                             | Displacement                                        |
     |:-------------------------------------|:----------------------------------------------------|

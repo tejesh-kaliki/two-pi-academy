@@ -55,6 +55,9 @@ nav:
         - Tests:
           - maths/complex-numbers/tests/test-final.md
   - Class-11 Physics:
+    - Units & Measurements:
+      - Tests:
+        - physics/units-and-measurements/tests/test-final.md
     - Motion in a Straight Line:
       - physics/motion-in-straight-line/index.md
       - physics/motion-in-straight-line/introduction.md
