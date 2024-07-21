@@ -65,6 +65,8 @@ nav:
       - physics/motion-in-straight-line/index.md
       - physics/motion-in-straight-line/introduction.md
       - physics/motion-in-straight-line/velocity-and-acceleration.md
+      - Tests:
+        - physics/motion-in-straight-line/tests/test-21-7-24.md
 
 
 extra:
