@@ -1,16 +1,10 @@
-[tool.poetry]
+[project]
 name = "two-pi-academy"
 version = "0.1.0"
 description = ""
-authors = ["Tejesh Kaliki <tejesh.kaliki@gmail.com>"]
+authors = [{ name = "Tejesh Kaliki", email = "tejesh.kaliki@gmail.com" }]
 readme = "README.md"
-package-mode = false
-
-[tool.poetry.dependencies]
-python = "^3.12"
-mkdocs-material = "^9.5.24"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs-material>=9.6.13",
+]

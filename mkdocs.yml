@@ -21,7 +21,7 @@ theme:
     - navigation.indexes
     - navigation.sections
     - navigation.footer
-  palette: 
+  palette:
     # Palette toggle for light mode
     - scheme: default
       toggle:
@@ -37,49 +37,54 @@ theme:
 nav:
   - Home: index.md
   - Class-11 Maths:
-     - Sets:
-        - Tests:
-          - maths/sets/tests/test.md
-     - Trigonometry:
-        - maths/trigonometry/index.md
-        - Formulas:
-          - maths/trigonometry/formulas/angle-measurement.md
-          - maths/trigonometry/formulas/trigonometric-ratios.md
-          - maths/trigonometry/formulas/trigonometric-functions-for-compound-angles.md
-        - Tests:
-          - maths/trigonometry/tests/test-1.md
-          - maths/trigonometry/tests/test-2.md
-          - maths/trigonometry/tests/test-final.md
-     - Complex Numbers:
-        - maths/complex-numbers/index.md
-        - Formulas:
-          - maths/complex-numbers/formulas/arithmetic-operations.md
-          - maths/complex-numbers/formulas/modulus-and-conjugate.md
-        - Tests:
-          - maths/complex-numbers/tests/test-final.md
-  - Class-11 Physics:
-    - Units & Measurements:
-      - Tests:
-        - physics/units-and-measurements/tests/test-final.md
-    - Motion in a Straight Line:
-      - physics/motion-in-straight-line/index.md
-      - physics/motion-in-straight-line/introduction.md
-      - physics/motion-in-straight-line/velocity-and-acceleration.md
-      - Tests:
-        - physics/motion-in-straight-line/tests/test-21-7-24.md
+      - Sets:
+          - Tests:
+              - maths/sets/tests/test.md
+      - Trigonometry:
+          - maths/trigonometry/index.md
+          - Formulas:
+              - maths/trigonometry/formulas/angle-measurement.md
+              - maths/trigonometry/formulas/trigonometric-ratios.md
+              - maths/trigonometry/formulas/trigonometric-functions-for-compound-angles.md
+          - Tests:
+              - maths/trigonometry/tests/test-1.md
+              - maths/trigonometry/tests/test-2.md
+              - maths/trigonometry/tests/test-final.md
+      - Complex Numbers:
+          - maths/complex-numbers/index.md
+          - Formulas:
+              - maths/complex-numbers/formulas/arithmetic-operations.md
+              - maths/complex-numbers/formulas/modulus-and-conjugate.md
+          - Tests:
+              - maths/complex-numbers/tests/test-final.md
 
+  - Class-12 Maths:
+      - Derivatives:
+          - maths/derivatives/index.md
+          - Formulas:
+              - maths/derivatives/formulas/standard-results.md
+
+  - Class-11 Physics:
+      - Units & Measurements:
+          - Tests:
+              - physics/units-and-measurements/tests/test-final.md
+      - Motion in a Straight Line:
+          - physics/motion-in-straight-line/index.md
+          - physics/motion-in-straight-line/introduction.md
+          - physics/motion-in-straight-line/velocity-and-acceleration.md
+          - Tests:
+              - physics/motion-in-straight-line/tests/test-21-7-24.md
 
 extra:
   generator: false
   social:
-    - icon: fontawesome/brands/youtube 
+    - icon: fontawesome/brands/youtube
       link: https://youtube.com/@twopiacademy
 
 plugins:
   - search
 
 copyright: Copyright &copy; 2024 - 2025 Two Pi Academy
-
 
 extra_javascript:
   - javascripts/mathjax.js
