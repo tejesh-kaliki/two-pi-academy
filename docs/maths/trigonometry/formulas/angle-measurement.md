@@ -21,6 +21,7 @@ Degrees are a unit of angle measurement commonly used in everyday situations.
 ## Radians
 
 Radians are an alternative unit of angle measurement often used in mathematical contexts, particularly in calculus and trigonometry. One radian is the angle subtended at the center of a circle by an arc whose length is equal to the radius of the circle.
+
 $$
 \text{Radians} = \frac{\text{Arc Length}}{\text{Radius}}
 $$
@@ -35,16 +36,17 @@ One full revolution is $2\pi$ radians.
 
 The following formulas to convert between degrees and radians:
 
-- To convert degrees to radians: 
+- To convert degrees to radians:
+
 $$
 \text{Radians} = \frac{\text{Degrees} \times \pi}{180}
 $$
 
 - To convert radians to degrees:
+
 $$
 \text{Degrees} = \frac{\text{Radians} \times 180}{\pi}
 $$
 
 ??? youtube-video "Conversion between Degrees & Radians"
     Check this short to understand: **[Conversion between Degrees & Radians](https://youtube.com/shorts/RUu8F_ykx0E?si=Pa5dIt488aCOQRY5)**
-
